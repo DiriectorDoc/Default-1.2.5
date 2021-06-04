@@ -1,1 +1,2 @@
 name=§9Default 1.2.5§r
+include=credits.txt
