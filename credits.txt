@@ -1,0 +1,5 @@
+                                   Credits
+-----------------------------------------------------------------------------
+The retro-fit item textures for the coloured beds were imported from
+Vanilla Tweaks (https://vanillatweaks.net/). Credit to the Vanilla Tweaks
+team for creating the textures and allowing for its use elsewhere.
