@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/ore",
+	"parent": "minecraft:block/alt_rotation",
 	"textures": {
 		"all": "minecraft:block/emerald_ore"
 	}
