@@ -1,0 +1,43 @@
+{
+	"parent": "block/cube_column",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [
+				0,
+				135,
+				0
+			],
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"scale": [
+				0.4,
+				0.4,
+				0.4
+			]
+		},
+		"gui": {
+			"rotation": [
+				30,
+				-45,
+				0
+			],
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"scale": [
+				0.625,
+				0.625,
+				0.625
+			]
+		}
+	},
+	"textures": {
+		"end": "block/pumpkin_top",
+		"side": "block/pumpkin_side"
+	}
+}
