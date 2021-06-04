@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"pack_format": 4,
+		"description": "§fThe §l§21.2.5§r§f looks!\n§r§6Use with §4Programmer Art"
+	},
+		"language":{
+			"en_mc_125":{
+				"name":"English",
+				"region":"Minecraft 1.2.5",
+				"bidirectional":false
+				}
+	}
+}
